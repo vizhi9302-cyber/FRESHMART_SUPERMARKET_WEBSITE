@@ -105,7 +105,7 @@ body {
     padding: 70px 50px;
     display: flex;
     align-items: center;
-    background-image: url("img/storename.jpg");
+    background-image: url("storename.jpg");
     background-size: cover;
     background-position: center;
     min-height: 450px;
